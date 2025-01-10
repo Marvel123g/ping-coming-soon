@@ -6,7 +6,6 @@
     width: 100%;
     max-width: 800px;
     height: auto;
-    margin-top: 300px;
 }
 h1{
     font-weight: 300;
@@ -39,6 +38,7 @@ input::placeholder{
     display: none;
     text-align: left;
     position: absolute;
+    margin-bottom: 300px;
 }
 button{
     color: white;
