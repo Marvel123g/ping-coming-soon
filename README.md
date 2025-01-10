@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Marvelous](https://marvel123g.github.io/ping-coming-soon/)
+- Website - [ping-coming-soon](https://marvel123g.github.io/ping-coming-soon/)
 - Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
 - Instagram - [@ma.rvellous971]
 
