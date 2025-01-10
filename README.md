@@ -6,15 +6,9 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
+  - [Links](#Links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://marvel123g.github.io/ping-coming-soon/)
+- Live Site URL: [Add live site URL here](https://github.com/Marvel123g/ping-coming-soon.git)
 
 
 ### Built with
@@ -47,8 +41,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Marvelous](https://www.your-site.com)
-- Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Marvelous](https://github.com/Marvel123g/ping-coming-soon.git)
+- Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
 - Instagram - [@ma.rvellous971]
 
 
