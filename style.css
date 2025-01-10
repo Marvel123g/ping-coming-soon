@@ -36,6 +36,7 @@ input::placeholder{
 #email-error{
     color: hsl(354, 100%, 66%);
     display: none;
+    position: absolute;
     text-align: left;
 }
 button{
