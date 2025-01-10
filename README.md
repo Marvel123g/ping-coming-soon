@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://marvel123g.github.io/ping-coming-soon/)
-- Live Site URL: [Add live site URL here](https://github.com/Marvel123g/ping-coming-soon.git)
+- Solution URL: [https://github.com/Marvel123g/ping-coming-soon.git]
+- Live Site URL: [https://marvel123g.github.io/ping-coming-soon/]
 
 
 ### Built with
@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Marvelous](https://github.com/Marvel123g/ping-coming-soon.git)
+- Website - [Marvelous](https://marvel123g.github.io/ping-coming-soon/)
 - Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
 - Instagram - [@ma.rvellous971]
 
