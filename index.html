@@ -54,42 +54,11 @@
                 </div>
             </div>
 
-            <article>&copy; Copyright Ping. All rights reserved.</article>
+            <p>&copy; Copyright Ping. All rights reserved.</p>
         </footer>
     </div>
     
 
-    <script>
-        const button = document.querySelector('button');
-        const email = document.getElementById('email');
-        const EmailError = document.getElementById('email-error');
-
-        button.addEventListener('click', e =>{
-            e.preventDefault()
-            
-            const emailValue = email.value.trim();
-            const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
-
-            formIsvalid = true;
-            if(emailValue === ""){
-                EmailError.style.display= 'block';
-                email.classList.add('error');
-                formIsvalid = false;
-            } else{
-                EmailError.style.display = "none";
-            };
-
-            if(!emailRegex.test(emailValue)) {
-                EmailError.style.display = "block";
-                email.classList.add('error');
-                formIsvalid= false;
-            } else{
-                EmailError.style.display = "none";
-            };
-            if(formIsvalid){
-                alert('Your Email has been Submitted');
-            };
-        });
-    </script>
+    <script src= "main.js"> </script>
 </body>
 </html>
